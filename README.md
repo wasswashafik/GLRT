@@ -13,7 +13,7 @@ Co-Supervisor:	Dr. Rosyzie Anna Awg Haji Mohd Apong
 
 
 # Prerequisites
-matlab R2018a
+matlab R2020 and above
 
 
 # Citation
