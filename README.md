@@ -13,7 +13,7 @@ Co-Supervisor:	Dr. Rosyzie Anna Awg Haji Mohd Apong
 
 
 # Prerequisites
-matlab R2020 and above
+matlab R2018a
 
 
 # Citation
@@ -21,5 +21,5 @@ If these codes and dataset are helpful for you, please cite this paper:
 
 
 # Contact
-If you have any other questions, you can send it to my email (wasswashafik [at] gmail [dot] com). 
+If you have any other questions, you can send it to my email (wasswashafik@gmail.com). 
 We will get back to you as soon as possible!
