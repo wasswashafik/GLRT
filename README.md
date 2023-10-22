@@ -21,5 +21,5 @@ If these codes and dataset are helpful for you, please cite this paper:
 
 
 # Contact
-If you have any other questions, you can send it to my email (wasswashafik@gmail.com). 
+If you have any other questions, you can send it to my email (wasswashafik [at] gmail [dot] com). 
 We will get back to you as soon as possible!
