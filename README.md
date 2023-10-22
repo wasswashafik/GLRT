@@ -1,8 +1,8 @@
-# Offical Responsitoy 
-This is the code of paper named "Anomaly Detection Technique for Undefined Patterns"
+# Offical Responsitory 
+This is the code of the paper named "Anomaly Detection Technique for Undefined Patterns"
 
 # Authors
-PhD Scholar: 	Wasswa Shafik
+Research Scholar: 	Wasswa Shafik
 Supervisor:  	Dr. Ali Tufail
 Co-Supervisor:	Professor. Chandratilak De Silva Liyanage
 Co-Supervisor:	Dr. Rosyzie Anna Awg Haji Mohd Apong
@@ -13,7 +13,7 @@ Co-Supervisor:	Dr. Rosyzie Anna Awg Haji Mohd Apong
 
 
 # Prerequisites
-matlab R2018a
+matlab R2018a+
 
 
 # Citation
